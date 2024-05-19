@@ -7,7 +7,7 @@
 ## Second Screen: Using Sheet
 <img width="210" alt="Screenshot 2024-05-19 at 12 36 38 PM" src="https://github.com/Sagar5426/Apple-Framework/assets/108585817/48dc37f9-ea78-431f-aa12-ebce956ce9a1">
 
-## Third Screen: Using SafariView by Integrating UIKit with SwiftUI
+## Third Screen: Using SafariView by Integrating UIKit in SwiftUI
 <img width="210" alt="Screenshot 2024-05-19 at 12 37 16 PM" src="https://github.com/Sagar5426/Apple-Framework/assets/108585817/46e16d85-9d00-45f3-9a89-8ef8192120e0">
 
 ## Video Demo of App
